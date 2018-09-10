@@ -1,0 +1,98 @@
+.splash-screen {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('totten.jpg');
+    background-size: cover;
+    margin-bottom: auto;
+}
+
+.splash-screen .cta {
+    padding: 10px;
+    background-color: rgba(0,0,0,0.5);
+    color: #FFF;
+    border-radius: 10px; 
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.navbar-links {
+    list-style-type: none;
+}
+
+main.content {
+    background-color: rgba(0, 0, 0, 0.5);    
+}
+
+#cardz {
+    margin-top: -15px;
+}
+
+#radish {
+    margin-top: auto;
+}
+
+#radishtwo {
+    margin-top: -15px;
+}
+
+#slap {
+    font-family: serif;
+    font-style: italic;
+}
+
+h3 {
+    font-style: italic;
+    font-family: serif;
+}
+
+div.contact-body {
+    border: 5px 2px 0px 0px #FFF;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+#ContactHI {
+    text-align: center;
+    justify-content: center;
+}
+
+.list-group-item {
+    text-align: start;
+}
+
+#cardIDK {
+    justify-content: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+h4.phead {
+    font-family: serif;
+}
+
+#radishthree {
+    margin-bottom: -5px;
+}
+  
+#footer {
+    padding: 4px;
+    background-color: lightslategrey;
+    opacity: 0.5;
+    margin-top: 5px;
+}
+  
+
+
+
+
+
+
